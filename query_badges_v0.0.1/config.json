@@ -1,0 +1,16 @@
+{
+  	"name": "Query Badges",
+  	"namespace": "PTTU\\QueryBadges", 
+  	"description": "Adds badges to the Data Resolution Workflow and the Project Home Page to show the number of open queries in a project.",
+  	"authors": [
+		{
+			"name": "Milan Chauhan",
+			"email": "milan.chauhan@porthosp.nhs.uk",
+			"institution": "Portsmouth Technologies Trials Unit"
+		}
+	],
+	"permissions": [
+		"redcap_project_home_page"
+	],
+	"framework-version": 4
+}
